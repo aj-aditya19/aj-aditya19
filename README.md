@@ -4,6 +4,12 @@
 
 Full-Stack and Flutter Developer focused on scalable applications, DSA, backend systems, and real-world problem solving using modern technologies. Currently pursuing BCA while building projects with React, Node.js, Flutter, AI integration, and system design.
 
+<p align="center">
+  <a href="https://github.com/aj-aditya19">
+    <img src="https://komarev.com/ghpvc/?username=guptamarcos&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
 ---
 
 # Tech Stack
