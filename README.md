@@ -15,7 +15,7 @@
 <img src="portfolio_page.png" alt="Aditya Jaiswal Banner" width="100%"/>
 
 <a href="https://github.com/aj-aditya19">
-  <img src="https://komarev.com/ghpvc/?username=guptamarcos&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aj-aditya19&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 </div>
